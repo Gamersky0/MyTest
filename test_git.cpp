@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout <<"feature1"<<endl;
+    cout <<"feature2"<<endl;
     return 0;
 }
