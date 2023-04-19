@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout <<"set"<<endl;
+    cout <<"feature1"<<endl;
     return 0;
 }
